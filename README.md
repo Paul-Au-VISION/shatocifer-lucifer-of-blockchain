@@ -15,7 +15,7 @@ Creation → Power → Identity → Division → Corruption → Illusion → Sur
 
 ## I. DOMAIN OF ORIGIN — *The Light Before Pride*
 
-![DOMAIN #1](./Domain\ 1_Thumbnail.jpg)
+![DOMAIN #1](https://github.com/Paul-Au-VISION/shatocifer-lucifer-of-blockchain/blob/main/Domain_1_Thumbnail.jpg)
 
 **Philosophy:**  
 This domain represents innocence. Computation exists without ambition, and code is law without rulers. It reflects Bitcoin’s genesis: pure protocol, no governance, no politics—only truth enforced by mathematics.
